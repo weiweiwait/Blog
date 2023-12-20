@@ -1,0 +1,8 @@
+2023/12/20 21:46:55 {"callers":["/home/fjw/GolandProjects/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1703080015084032511}
+2023/12/20 21:48:08 {"callers":["/home/fjw/GolandProjects/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1703080088920165560}
+2023/12/20 21:59:26 {"callers":["/home/fjw/GolandProjects/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1703080766750598460}
+2023/12/20 22:02:43 {"callers":["/home/fjw/GolandProjects/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1703080963472659594}
+2023/12/20 22:59:51 {"callers":["/home/fjw/GolandProjects/blog-service/main.go: 23 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1703084391197571016}
+2023/12/20 23:01:35 {"callers":["/home/fjw/GolandProjects/blog-service/main.go: 23 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1703084495686385287}
+2023/12/20 23:04:31 {"callers":["/home/fjw/GolandProjects/blog-service/main.go: 23 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1703084671563497901}
+2023/12/20 23:06:54 {"callers":["/home/fjw/GolandProjects/blog-service/main.go: 23 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1703084814053397910}
